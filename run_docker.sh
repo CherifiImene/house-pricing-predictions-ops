@@ -11,4 +11,4 @@ docker build --tag=pricespredictions .
 docker image ls
 # Step 3: 
 # Run flask app
-docker run -p 0.0.0.0:80:8000/tcp -it pricespredictions bash
+docker run -p 8000:80 pricespredictions
