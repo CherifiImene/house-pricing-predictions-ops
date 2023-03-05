@@ -2,9 +2,7 @@
 
 ## Project Summary
 
-In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
-
-This repository is a Flask application that predicts housing prices in Boston according to several features, such as average rooms in a home and data about highway access, It also has the scriptneeded to operationalize this app and run it on Docker or Kubernetes.
+This repository is a Flask application that predicts housing prices in Boston according to several features, such as  such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. Additionally, it provides the needed script to operationalize this app and run it on Docker and Kubernetes.
 
 The data used in this project was initially taken from Kaggle, on [the data source site](https://www.kaggle.com/c/boston-housing).
 Feel Free to extended this project to any pre-trained machine learning model, such as those for image recognition and data labeling.
